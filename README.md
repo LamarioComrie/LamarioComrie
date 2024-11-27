@@ -1,11 +1,26 @@
-- 👋 Hi, I’m @LamarioComrie
-- 👀 I’m interested in Software engignering 
-- 🌱 I’m currently learning Pyhton, SQLight and html
-- 💞️ I’m looking to collaborate on web projects, specifcally the frontend designing and coding.
-- 📫 How to reach me:
--  my email is Lamariocomrie@gmail.com
-- Mu number is 07391727574
-- ⚡ Fun fact:I have a passion for creating films and writing scrips.
+# 👋 Hi, I'm Lamario Ronaldo Comrie!
+🎓 2023 graduate of Anglia Ruskin University with a BA (Hons) in Drama & Film.  
+💻 Coding enthusiast with experience in Python, HTML, JavaScript, and VS Code.  
+💼 Former Training Partner at 4Sight Marketing Ltd, excelling in sales and team leadership.  
+🎯 Passionate about customer relations, problem-solving, and building user-friendly applications.
+
+## 🚀 Skills & Tools
+- **Languages**: Python (basic), JavaScript, HTML
+- **Frameworks/Tools**: VS Code, Git, Microsoft Office Suite
+- **Other Skills**: Digital Marketing, Team Training, Sales Strategies
+
+## 🌱 Currently Learning
+- Advanced Python and JavaScript
+- Database management with SQL
+- RESTful APIs and backend development
+ 
+## 💡 What I’m Working On
+- Creating a restaurant app as a personal project.
+
+## 📫 How to Reach Me
+- **Email**: [lamariocomrie@gmail.com](mailto:lamariocomrie@gmail.com)
+- **LinkedIn**: [linkedin.com/in/lamariocomrie](https://www.linkedin.com/in/lamariocomrie)
+ 
 
 <!---
 LamarioComrie/LamarioComrie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
